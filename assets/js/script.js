@@ -47,3 +47,4 @@ function displayResult(message) {
     board.parentElement.appendChild(resultDisplay);
 }
 
+
